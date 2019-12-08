@@ -1,0 +1,1425 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="###### ESTRENOS 2019 ######" tvg-logo="http://i67.tinypic.com/2je4swo.jpg" group-title=" ESTRENOS 2019 ",###### ESTRENOS 2019 ######
+http://i63.tinypic.com/1250tfs.jpg
+
+// septiembre
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/septiembre/img/X-Men%20Fenix%20Oscura.jpg " group-title="ESTRENOS 2019",LA: X-Men Fenix Oscura
+https://storage.googleapis.com/cinematv/2019/septiembre/01%20%20X-Men%20Fenix%20Oscura.mkv
+
+// agosto 
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/El%20terremoto.jpg " group-title="ESTRENOS 2019",LA: El terremoto
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2016%20%20El%20terremoto.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Espere%20mas%20instrucciones.jpg " group-title="ESTRENOS 2019",LA: Espere mas instrucciones
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2017%20%20Espere%20mas%20instrucciones.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Los%20hombres%20de%20negro%204.jpg " group-title="ESTRENOS 2019",LA: Los hombres de negro 4
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2018%20%20Los%20hombres%20de%20negro%204.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Pokemon%20Detective%20Pikachu.jpg " group-title="ESTRENOS 2019",LA: Pokemon Detective Pikachu
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2019%20%20Pokemon%20Detective%20Pikachu.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Que%20tan%20alto%202.jpg " group-title="ESTRENOS 2019",LA: Que tan alto 2
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2020%20%20Que%20tan%20alto%202.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Sextillizos.jpg " group-title="ESTRENOS 2019",LA: Sextillizos
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2021%20%20Sextillizos.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Suburban%20Swingers%20Club.jpg " group-title="ESTRENOS 2019",LA: Suburban Swingers Club 
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2022%20%20Suburban%20Swingers%20Club.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/La%20peque%C3%B1a%20Suiza.jpg " group-title="ESTRENOS 2019",LA: La pequena Suiza
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2023%20%20La%20pequena%20Suiza.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Sin%20piedad.jpg " group-title="ESTRENOS 2019",LA: Sin piedad
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2024%20%20Sin%20piedad.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Amor%20en%20obras.jpg " group-title="ESTRENOS 2019",LA: Amor en obra
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2025%20%20Amor%20en%20obra.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Casate%20Conmigo%20Por%20Favor.jpg " group-title="ESTRENOS 2019",LA: Casate Conmigo Por Favor
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2026%20%20Casate%20Conmigo%20Por%20Favor.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/kim%20possible.jpg " group-title="ESTRENOS 2019",LA: Kim Possible
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2027%20%20Kim%20Possible.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/La%20chica%20que%20saltaba%20a%20traves%20del%20tiempo.jpg " group-title="ESTRENOS 2019",LA:  La chica que viajaba a traves del tiempo
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2028%20%20La%20chica%20que%20saltaba%20a%20traves%20del%20tiempo.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/La%20cosecha%20del%20mal.jpg " group-title="ESTRENOS 2019",LA: La Cosecha del Mal
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2029%20%20La%20Cosecha%20del%20Mal.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Los%20muertos%20no%20mueren.jpg " group-title="ESTRENOS 2019",LA:  Los Muertos no Mueren
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2030%20%20Los%20Muertos%20no%20Mueren.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/No%20hay%20salida.jpg " group-title="ESTRENOS 2019",LA: No hay salida
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2031%20%20No%20hay%20salida.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Soldado%20de%20la%20Noche.jpg " group-title="ESTRENOS 2019",LA: Soldado de la Noche
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2032%20%20Soldado%20de%20la%20Noche.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Tigre%20y%20dragon%202%20la%20Espada%20del%20Destino.jpg " group-title="ESTRENOS 2019",LA: Tigre y dragon 2 la Espada del Destino
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2033%20%20Tigre%20y%20dragon%202%20la%20Espada%20del%20Destino.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Unbridled.jpg " group-title="ESTRENOS 2019",LA: Unbridled
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2034%20%20Unbridled.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Mejor%20que%20nunca.jpg " group-title="ESTRENOS 2019",LA: Mejor que nunca
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2035%20%20Mejor%20que%20nunca.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Nancy%20Drew%20y%20la%20escalera%20secreta.jpg " group-title="ESTRENOS 2019",LA: Nancy Drew y la Escalera Secreta
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%20%2036%20%20Nancy%20Drew%20y%20la%20Escalera%20Secreta.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Aladdin.jpg " group-title="ESTRENOS 2019",LA: Aladdin
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2001%20Aladdin.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/El%20gran%20hackeo.jpg " group-title="ESTRENOS 2019",LA: El gran hackeo
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2002%20El%20gran%20hackeo.mkv.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/El%20hombre%20que%20mat%C3%B3%20a%20Don%20Quijote.jpg " group-title="ESTRENOS 2019",LA: El hombre que mato a Don Quijote
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2003%20El%20hombre%20que%20mato%20a%20Don%20Quijote.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/John%20Wick%203.jpg " group-title="ESTRENOS 2019",LA: John Wick 3 Parabellum
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2004%20John%20Wick%203%20Parabellum.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Marnies%20wlt.jpg " group-title="ESTRENOS 2019",LA: Marnies Welt
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2005%20Marnies%20Welt.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/mascotas%202.jpg " group-title="ESTRENOS 2019",LA: Mascotas 2
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2006%20Mascotas%202.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Operacion%20hermanos%202019.jpg " group-title="ESTRENOS 2019",LA: Operacion hermanos
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2007%20Operacion%20hermanos.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Una%20oracion%20antes%20del%20amanecer.jpg " group-title="ESTRENOS 2019",LA: Una oracion antes del amanecer
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2008%20Una%20oracion%20antes%20del%20amanecer.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Annabelle%20vuelve%20a%20casa.jpg " group-title="ESTRENOS 2019",LA: Annabelle vuelve a casa 
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2009%20Annabelle%20vuelve%20a%20casa.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/4%20latas.jpg " group-title="ESTRENOS 2019",LA: 4 Latas
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2010%20%20%204%20Latas%20iptvnando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Dulce%20Familia.jpg " group-title="ESTRENOS 2019",LA: Dulce Familia
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2011%20Dulce%20Familia%20iptvnando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/La%20razon%20de%20estar%20contigo%202.jpg " group-title="ESTRENOS 2019",LA:  La razon de estar contigo
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2012%20La%20razon%20de%20estar%20contigo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/no%20planeado.jpg " group-title="ESTRENOS 2019",LA: no planeado
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2013%20no%20planeado%20iptvnando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/Taxi%20a%20%20Gibraltar.jpg " group-title="ESTRENOS 2019",LA: Taxi a  Gibraltar
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2014%20Taxi%20a%20%20Gibraltar%20iptvnando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/agosto/IMG/El%20sotano%20de%20mama.jpg " group-title="ESTRENOS 2019",LA: El sotano de mama 
+https://storage.googleapis.com/cinematv/2019/agosto/agosto%2015%20El%20sotano%20de%20mama.mkv
+
+// julio
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/A%20Vigilante%20%282018%29.jpg " group-title="ESTRENOS 2019",LA: A Vigilante 
+https://storage.googleapis.com/cinematv/2019/julio/01%20%20julio%20A%20Vigilante%20%282018%29%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Alita%20Angel%20de%20Combate.jpg " group-title="ESTRENOS 2019",LA: Alita Angel de Combate
+https://storage.googleapis.com/cinematv/2019/julio/02%20%20julio%20Alita%20Angel%20de%20Combate.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Escape%20Plan.jpg " group-title="ESTRENOS 2019",LA:  Plan de Escape  El Rescate
+https://storage.googleapis.com/cinematv/2019/julio/03%20%20julio%20Julio%20%20Plan%20de%20Escape%20%20El%20Rescate%20%282019%29%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Muerte%20en%20el%20Mar.jpg " group-title="ESTRENOS 2019",LA: Muerte en el Mar
+https://storage.googleapis.com/cinematv/2019/julio/04%20%20julio%20Muerte%20en%20el%20Mar%20%282018%29.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Secundaria%20Mortal.jpg " group-title="ESTRENOS 2019",LA: Secundaria Mortal
+https://storage.googleapis.com/cinematv/2019/julio/05%20%20julio%20Secundaria%20Mortal%20%282018%29%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Bosque%20Maldito.jpg " group-title="ESTRENOS 2019",LA: El Bosque Maldito
+https://storage.googleapis.com/cinematv/2019/julio/06%20julio%20El%20Bosque%20Maldito%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/El%20secuestro%20de%20Stella.jpg " group-title="ESTRENOS 2019",LA: El secuestro de Stella
+https://storage.googleapis.com/cinematv/2019/julio/07%20julio%20El%20secuestro%20de%20Stella.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Un%20Hombre%20a%20la%20Altura.jpg " group-title="ESTRENOS 2019",LA: Un Hombre a la Altura
+https://storage.googleapis.com/cinematv/2019/julio/08%20julio%20Un%20Hombre%20a%20la%20Altura.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/A%20quemarropa%20dvd.jpg " group-title="ESTRENOS 2019",LA: A quemarropa HD
+https://storage.googleapis.com/cinematv/2019/julio/09%20julio%20A%20quemarropa%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Atrapada%20en%20el%20manicomio.jpg " group-title="ESTRENOS 2019",LA: Atrapada en el manicomio
+https://storage.googleapis.com/cinematv/2019/julio/10%20julio%20Atrapada%20en%20el%20manicomio.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Batman%20Hush.jpg " group-title="ESTRENOS 2019",LA: Batman Hush
+https://storage.googleapis.com/cinematv/2019/julio/11%20julio%20Batman%20Hush%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/El%20Intruso.jpg " group-title="ESTRENOS 2019",LA:  El Intruso
+https://storage.googleapis.com/cinematv/2019/julio/12%20julio%20El%20Intruso.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Hellboy.jpg " group-title="ESTRENOS 2019",LA: Hellboy
+https://storage.googleapis.com/cinematv/2019/julio/13%20julio%20Hellboy.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/la%20hija%20del%20lobo.jpg " group-title="ESTRENOS 2019",LA: hija de la mafia
+https://storage.googleapis.com/cinematv/2019/julio/14%20julio%20hija%20de%20la%20mafia.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/La%20maldicion%20de%20la%20llorona.jpg " group-title="ESTRENOS 2019",LA: La maldicion de la llorona
+https://storage.googleapis.com/cinematv/2019/julio/15%20julio%20La%20maldicion%20de%20la%20llorona.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Luchando%20con%20mi%20familia.jpg " group-title="ESTRENOS 2019",LA: Luchando con mi familia
+https://storage.googleapis.com/cinematv/2019/julio/16%20julio%20Luchando%20con%20mi%20familia.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Ni%20en%20tus%20%20suenos.jpg " group-title="ESTRENOS 2019",LA: Ni En Suenos
+https://storage.googleapis.com/cinematv/2019/julio/17%20julio%20Ni%20En%20Suenos.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Obsesi%C3%B3n%20secreta.jpg " group-title="ESTRENOS 2019",LA: Obsesion secreta
+https://storage.googleapis.com/cinematv/2019/julio/18%20julio%20Obsesion%20secreta.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/El%20libro%20de%20la%20%20vida.jpg " group-title="ESTRENOS 2019",LA: El libro de la  vida
+https://storage.googleapis.com/cinematv/2019/julio/19%20julio%20El%20libro%20de%20la%20%20vida.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Bruma%202017.jpg " group-title="ESTRENOS 2019",LA:  Bruma 
+https://storage.googleapis.com/cinematv/2019/julio/20%20julio%20Bruma%202017.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Ecos%20Mortales.jpg " group-title="ESTRENOS 2019",LA: Ecos Mortales
+https://storage.googleapis.com/cinematv/2019/julio/21%20julio%20Ecos%20Mortales.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Intercambio%20secreto.jpg " group-title="ESTRENOS 2019",LA: Intercambio secreto
+https://storage.googleapis.com/cinematv/2019/julio/21%20julio%20Intercambio%20secreto.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Looney%20Tunes%20De%20nuevo%20en%20accion.jpg " group-title="ESTRENOS 2019",LA:  Looney Tunes De nuevo en accion
+https://storage.googleapis.com/cinematv/2019/julio/22%20julio%20Looney%20Tunes%20De%20nuevo%20en%20accion.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Michael%20Jackson%20Searching%20for%20Neverland.jpg " group-title="ESTRENOS 2019",LA:  Michael Jackson Searching for Neverland
+https://storage.googleapis.com/cinematv/2019/julio/23%20julio%20Michael%20Jackson%20Searching%20for%20Neverland.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Sinister%20Minister.jpg " group-title="ESTRENOS 2019",LA: Sinister Minister
+https://storage.googleapis.com/cinematv/2019/julio/24%20julio%20Sinister%20Minister.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Avengers%20Endgame.jpg " group-title="ESTRENOS 2019",LA: Avengers Endgame (2019)
+https://storage.googleapis.com/cinematv/2019/julio/25%20julio%20Avengers%20Endgame%20%282019%29%201080p%20Latino.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Cadaveres%20La%20Reunion%20De%20Los%20Muertos.jpg " group-title="ESTRENOS 2019",LA: Cadaveres La Reunion De Los Muertos
+https://storage.googleapis.com/cinematv/2019/julio/26%20julio%20Cadaveres%20La%20Reunion%20De%20Los%20Muertos.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/El%20%C3%BAnico.jpg " group-title="ESTRENOS 2019",LA: El  unico
+https://storage.googleapis.com/cinematv/2019/julio/27%20julio%20El%20%20unico.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Godzilla%20King%20of%20the%20Monsters.jpg " group-title="ESTRENOS 2019",LA: Godzilla King of the Monsters
+https://storage.googleapis.com/cinematv/2019/julio/28%20julio%20Godzilla%20King%20of%20the%20Monsters%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/la%20hija%20del%20lobo.jpg " group-title="ESTRENOS 2019",LA: la hija del lobo
+https://storage.googleapis.com/cinematv/2019/julio/29%20julio%20la%20hija%20del%20lobo.mkv
+
+...........................................................................................................................................
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/La%20locura%20de%20una%20madre.jpg " group-title="ESTRENOS 2019",LA: La locura de una madre
+https://storage.googleapis.com/cinematv/2019/julio/30%20julio%20La%20locura%20de%20una%20madre.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/julio/IMG/Tolkien.jpg " group-title="ESTRENOS 2019",LA: Tolkien 
+https://storage.googleapis.com/cinematv/2019/julio/31%20julio%20Tolkien%20.mkv
+
+// junio
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Brexit.jpg " group-title="ESTRENOS 2019",LA: Brexit
+https://storage.googleapis.com/cinematv/2019/junio/01%20junio%20%20Brexit%20%28TV%29%20%282019%29%20Latinoiptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Overlord.jpg " group-title="ESTRENOS 2019",LA: Overlord 
+https://storage.googleapis.com/cinematv/2019/junio/02%20junio%20%20Overlord%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Scooby-Doo.jpg " group-title="ESTRENOS 2019",LA: Scooby-Doo! and the Curse of the 13th Ghost
+https://storage.googleapis.com/cinematv/2019/junio/03%20junio%20%20Scooby-Doo%21%20and%20the%20Curse%20of%20the%2013th%20Ghost%20%282019%29%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Triple%20Amenaza.png " group-title="ESTRENOS 2019",LA: Triple Amenaza
+https://storage.googleapis.com/cinematv/2019/junio/04%20junio%20%20Triple%20Amenaza%20%5BBluRay%20Rip%5D%5BAC3%202.0%20Castellano%5D%5B2019%5Diptv-nando.net.mp4.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Ver%20%C2%BFA%20qui%C3%A9n%20te%20llevar%C3%ADas%20a%20una%20isla%20desierta.jpg " group-title="ESTRENOS 2019",LA: ¿A quien te llevarias a una isla desierta
+https://storage.googleapis.com/cinematv/2019/junio/05%20junio%20%20Ver%20%C2%BFA%20qui%C3%A9n%20te%20llevar%C3%ADas%20a%20una%20isla%20desierta-%20%28Who%20Would%20You%20Take%20to%20a%20Deserted%20Island-%29%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/A%20pesar%20de%20todo.jpg " group-title="ESTRENOS 2019",LA: A pesar de todo
+https://storage.googleapis.com/cinematv/2019/junio/06%20junio%20%20Ver%20A%20pesar%20de%20todo%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/All%20in%20My%20Family.jpg " group-title="ESTRENOS 2019",LA: Todos en mi familia
+https://storage.googleapis.com/cinematv/2019/junio/07%20junio%20%20Ver%20All%20in%20My%20Family%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Backdraft%202.jpg " group-title="ESTRENOS 2019",LA: Backdraft 2
+https://storage.googleapis.com/cinematv/2019/junio/08%20junio%20%20Ver%20Backdraft%202%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Batman%20vs.%20las%20Tortugas%20Ninja.jpg " group-title="ESTRENOS 2019",LA: Batman vs. las Tortugas Ninja
+https://storage.googleapis.com/cinematv/2019/junio/09%20junio%20%20Ver%20Batman%20vs.%20las%20Tortugas%20Ninja%20%28Batman%20vs.%20Teenage%20Mutant%20Ninja%20Turtles%29iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/El%20buen%20Sam.jpg " group-title="ESTRENOS 2019",LA: El buen Sam 
+https://storage.googleapis.com/cinematv/2019/junio/10%20junio%20%20Ver%20El%20buen%20Sam%20%28Good%20Sam%29%20Online%20y%20Descargar%20Gratis%20Hd%20-%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Hijo%20nativo.jpg " group-title="ESTRENOS 2019",LA: Hijo nativo
+https://storage.googleapis.com/cinematv/2019/junio/12%20junio%20%20Ver%20Hijo%20nativo%20%28Native%20Son%29%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Jo%20Pil-Ho.jpg " group-title="ESTRENOS 2019",LA: Jo Pil-Ho- El despertar de la rabia
+https://storage.googleapis.com/cinematv/2019/junio/13%20junio%20%20Ver%20Jo%20Pil-Ho-%20El%20despertar%20de%20la%20rabia%20%28Bad%20Police%29%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Los%20despiadados.jpg " group-title="ESTRENOS 2019",LA: Los despiadados
+https://storage.googleapis.com/cinematv/2019/junio/14%20junio%20%20Ver%20Los%20despiadados%20%28Lo%20spietato%29%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Los%20vigilantes%20de%20Malib%C3%BA.jpg " group-title="ESTRENOS 2019",LA: Los vigilantes de Malibu
+https://storage.googleapis.com/cinematv/2019/junio/15%20junio%20%20Ver%20Los%20vigilantes%20de%20Malib%C3%BA%20%28Malibu%20Rescue%29%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Organize%20Isler%202.jpg " group-title="ESTRENOS 2019",LA: Organize Isler 2
+https://storage.googleapis.com/cinematv/2019/junio/16%20junio%20%20Ver%20Organize%20Isler%202-%20Sazan%20Sarmali%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Paddleton.jpg " group-title="ESTRENOS 2019",LA: Paddleton
+https://storage.googleapis.com/cinematv/2019/junio/17%20junio%20%20Ver%20Paddleton%20Online%20y%20Descargar%20Gratis%20Hd%20-%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Retrato%20de%20un%20asesino.jpg " group-title="ESTRENOS 2019",LA: Retrato de un asesino
+https://storage.googleapis.com/cinematv/2019/junio/18%20junio%20%20Ver%20Retrato%20de%20un%20asesino%20%28Extremely%20Wicked%2C%20Shockingly%20Evil%20and%20Vile%29iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/El%20camino%20largo%20%28The%20Hard%20Way%29.jpg " group-title="ESTRENOS 2019",LA: El camino duro
+https://storage.googleapis.com/cinematv/2019/junio/20%20junio%20The%20Hard%20Way%20%282019%29%201080p%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/La%20llorona.jpg " group-title="ESTRENOS 2019",LA: La llorona
+https://storage.googleapis.com/cinematv/2019/junio/21%20junio%20Llorona%202019%20-%20720p%20Latino.mp4%20-%20openload.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/soy%20madre.jpg " group-title="ESTRENOS 2019",LA: Soy madre
+https://storage.googleapis.com/cinematv/2019/junio/22%20junio%20Soy%20madre%20.2019%20%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/A%20dos%20metros%20de%20ti.jpg " group-title="ESTRENOS 2019",LA: A dos metros de ti
+https://storage.googleapis.com/cinematv/2019/junio/23%20junio%20A%20dos%20metros%20de%20ti%202019%20%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Nosotros.jpg " group-title="ESTRENOS 2019",LA:  Nosotros
+https://storage.googleapis.com/cinematv/2019/junio/24%20junio%20Nosotros.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/La%20noche%20devoro%20al%20mundo.jpg " group-title="ESTRENOS 2019",LA: La noche devoro al mundo
+https://storage.googleapis.com/cinematv/2019/junio/25%20jubio%20La%20noche%20devoro%20al%20mundo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Oh%2C%20Ramona.jpg " group-title="ESTRENOS 2019",LA: Oh, Ramona
+https://storage.googleapis.com/cinematv/2019/junio/26%20junio%20Oh%2C%20Ramona.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Above%20Suspicion.jpg " group-title="ESTRENOS 2019",LA:  Above Suspicion
+https://storage.googleapis.com/cinematv/2019/junio/27%20junio%20Above%20Suspicion.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Dumbo.jpg " group-title="ESTRENOS 2019",LA: Dumbo 2019
+https://storage.googleapis.com/cinematv/2019/junio/28%20junio%20Dumbo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Cenicienta%20Pop.jpg " group-title="ESTRENOS 2019",LA: Cenicienta pop
+https://storage.googleapis.com/cinematv/2019/junio/29%20junio%20Cenicienta%20Pop%20iptvnando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Pajaritos%20a%20volar.jpg " group-title="ESTRENOS 2019",LA: Pajaros a volar
+https://storage.googleapis.com/cinematv/2019/junio/30%20junio%20%20Pajaritos%20A%20Volar%20iptv-nando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Misterio%20a%20%20bordo.jpg " group-title="ESTRENOS 2019",LA: Misterio a bordo
+https://storage.googleapis.com/cinematv/2019/junio/31%20%20junio%20Misterio%20a%20bordo%20iptv-nando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/La%20vida%20es%20un%20rodeo.jpg " group-title="ESTRENOS 2019",LA: La vida es un rodeo
+https://storage.googleapis.com/cinematv/2019/junio/32%20junio%20Ver%20La%20vida%20es%20un%20rodeo%20%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Juanita.jpg " group-title="ESTRENOS 2019",LA: Juanita
+https://storage.googleapis.com/cinematv/2019/junio/33%20junio%20Juanita%20iptv-nando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Svaha%20el%20sexto%20dedo.jpg " group-title="ESTRENOS 2019",LA: Svaha el sexto dedo
+https://storage.googleapis.com/cinematv/2019/junio/34%20junio%20Svaha%20el%20sexto%20dedo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/After%20Maria.jpg " group-title="ESTRENOS 2019",LA: After Maria puerto rico Documental
+https://storage.googleapis.com/cinematv/2019/junio/35%20junio%20After%20Maria%20puerto%20rico%20Documental.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/El%20silencio.jpg " group-title="ESTRENOS 2019",LA: El silencio
+https://storage.googleapis.com/cinematv/2019/junio/36%20junio%20El%20silencio%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Gente%20que%20viene%20y%20bah.jpg " group-title="ESTRENOS 2019",LA: Gente  que  viene y bah
+https://storage.googleapis.com/cinematv/2019/junio/37%20junio%20Ver%20Gente%20que%20viene%20y%20bah%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/La%20rebelion.jpg " group-title="ESTRENOS 2019",LA: La rebelion
+https://storage.googleapis.com/cinematv/2019/junio/38%20junio%20Ver%20La%20rebelion%20%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/El%20hijo.jpg " group-title="ESTRENOS 2019",LA: El hijo
+https://storage.googleapis.com/cinematv/2019/junio/39%20junio%20%20El%20hijo%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/la%20sirena.jpg " group-title="ESTRENOS 2019",LA: La sirena la  leyenda jamás contada
+https://storage.googleapis.com/cinematv/2019/junio/40%20junio%20La%20sirena%20la%20%20leyenda%20jam%C3%A1s%20contada%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/maluma%20lo%20que%20era%20lo%20que%20soy%20lo%20que%20sere.jpg " group-title="ESTRENOS 2019",LA: Maluma Lo Que Era Lo Que Soy Lo Que Sere
+https://storage.googleapis.com/cinematv/2019/junio/41%20junio%20Maluma%20Lo%20Que%20Era%20Lo%20Que%20Soy%20Lo%20Que%20Sere%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Cementerio%20de%20animales.jpg " group-title="ESTRENOS 2019",LA: Cementerio de animales
+https://storage.googleapis.com/cinematv/2019/junio/42%20junio%20Cementerio%20de%20animales%20iptv-nando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Insignis.jpg " group-title="ESTRENOS 2019",LA: Insignis
+https://storage.googleapis.com/cinematv/2019/junio/43%20junio%20Insignis%20iptv-nando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/El%20Queens%20Corgi.jpg " group-title="ESTRENOS 2019",LA: El Queens Corgi
+https://storage.googleapis.com/cinematv/2019/junio/44%20junio%20El%20Queens%20Corgi%20%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Pequeno%20gran%20problema%202019.jpg " group-title="ESTRENOS 2019",LA: Pequeno gran problema
+https://storage.googleapis.com/cinematv/2019/junio/45%20junio%20Pequeno%20gran%20problema%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/junio/IMG/Sorry%20to%20Bother%20You.jpg " group-title="ESTRENOS 2019",LA: Sorry to Bother You
+https://storage.googleapis.com/cinematv/2019/junio/46%20junio%20Sorry%20to%20Bother%20You%20iptv-nando.net.mp4
+
+// mayo
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/alien%20warfare.jpg " group-title="ESTRENOS 2019",LA: Alien warfare
+https://storage.googleapis.com/cinematv/2019/mayo/01%20mayo%20%20alienwarfare.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Captain.marvel.jpg " group-title="ESTRENOS 2019",LA: Capitana marvel
+https://storage.googleapis.com/cinematv/2019/mayo/02%20mayo%20%20Captain.marvel.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/close.jpg " group-title="ESTRENOS 2019",LA:  Close
+https://storage.googleapis.com/cinematv/2019/mayo/03%20mayo%20%20Close.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/como%20entrenar%20a%20tu%20dragon%204.jpg " group-title="ESTRENOS 2019",LA: Como entrenar a tu dragon 4
+https://storage.googleapis.com/cinematv/2019/mayo/04%20mayo%20%20como%20entrenar%20a%20tu%20dragon.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Emboscada%20final.jpg " group-title="ESTRENOS 2019",LA: Enboscada final
+https://storage.googleapis.com/cinematv/2019/mayo/05%20mayo%20%20emboscada-final.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Escape%20room.jpg " group-title="ESTRENOS 2019",LA: Escape room
+https://storage.googleapis.com/cinematv/2019/mayo/06%20mayo%20%20Escape.room.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Feliz%20dia%20de%20tu%20muerte%202.jpg " group-title="ESTRENOS 2019",LA:  Feliz dia de tu muerte 2
+https://storage.googleapis.com/cinematv/2019/mayo/07%20mayo%20%20feliz%20dia%20de%20tu%20muerte.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/glass.jpg " group-title="ESTRENOS 2019",LA: Glass
+https://storage.googleapis.com/cinematv/2019/mayo/08%20mayo%20%20Glass.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/IO.jpg " group-title="ESTRENOS 2019",LA: IO
+https://storage.googleapis.com/cinematv/2019/mayo/09%20mayo%20%20IO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Isnt%20it%20romantic.jpg " group-title="ESTRENOS 2019",LA: Instinto romantico
+https://storage.googleapis.com/cinematv/2019/mayo/10%20mayo%20%20Isnt.it.romantic.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Justice%20league%20vs%20the%20fatal%20five.jpg " group-title="ESTRENOS 2019",LA: Justice league vs the fatal five
+https://storage.googleapis.com/cinematv/2019/mayo/11%20mayo%20%20justiceleaguevsthefatalfive.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/la-gran-aventura-lego.jpg " group-title="ESTRENOS 2019",LA: La gran aventura lego
+https://storage.googleapis.com/cinematv/2019/mayo/12%20mayo%20%20la-gran-aventura-lego.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/mi%20mascota%20es%20un%20leon.jpg " group-title="ESTRENOS 2019",LA: Mi mascota es un leon
+https://storage.googleapis.com/cinematv/2019/mayo/13%20mayo%20%20mi-mascota-es-un-leon.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/mis%20huellas%20a%20casa.jpg " group-title="ESTRENOS 2019",LA: Mis huellas a casa
+https://storage.googleapis.com/cinematv/2019/mayo/14%20mayo%20%20mis-huellas-a-casa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/mis%20balas.jpg " group-title="ESTRENOS 2019",LA: Miss balas
+https://storage.googleapis.com/cinematv/2019/mayo/15%20mayo%20%20miss%20balas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/nacido%20para%20ser%20rey.jpg " group-title="ESTRENOS 2019",LA: Nacido para ser rey
+https://storage.googleapis.com/cinematv/2019/mayo/16%20mayo%20%20nacido-para-ser-rey.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/polar.jpg " group-title="ESTRENOS 2019",LA: Polar
+https://storage.googleapis.com/cinematv/2019/mayo/17%20mayo%20%20polar.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Reign%20of%20the%20supermen.jpg " group-title="ESTRENOS 2019",LA: Reing of the supermen
+https://storage.googleapis.com/cinematv/2019/mayo/18%20mayo%20%20reignofthesupermen.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/rim-of-the-world.jpg " group-title="ESTRENOS 2019",LA: Rim of the world 
+https://storage.googleapis.com/cinematv/2019/mayo/19%20mayo%20%20rimoftheworld.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/See%20you%20yesterday.jpg " group-title="ESTRENOS 2019",LA: See you yesterday
+https://storage.googleapis.com/cinematv/2019/mayo/20%20mayo%20%20seeyouyesterday.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Serenity.jpg " group-title="ESTRENOS 2019",LA: Serenity
+https://storage.googleapis.com/cinematv/2019/mayo/21%20mayo%20%20serenity.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/someone-great.jpg " group-title="ESTRENOS 2019",LA: Someone great
+https://storage.googleapis.com/cinematv/2019/mayo/22%20mayo%20%20someonegreat.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The.boy.who.harnessed.the.wind.jpg " group-title="ESTRENOS 2019",LA: The boy who harnessed wind
+https://storage.googleapis.com/cinematv/2019/mayo/23%20mayo%20%20theboywhoharnessedthewind.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The%20dirt.jpg " group-title="ESTRENOS 2019",LA:  The dirt
+https://storage.googleapis.com/cinematv/2019/mayo/24%20mayo%20%20thedirt.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The.last.laugh.jpg " group-title="ESTRENOS 2019",LA: The last laugh
+https://storage.googleapis.com/cinematv/2019/mayo/25%20mayo%20%20thelastlaugh.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The%20last%20summer.jpg " group-title="ESTRENOS 2019",LA: The last summer
+https://storage.googleapis.com/cinematv/2019/mayo/26%20mayo%20%20thelastsummer.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The%20perfect%20date.jpg " group-title="ESTRENOS 2019",LA: The perfect date
+https://storage.googleapis.com/cinematv/2019/mayo/27%20mayo%20%20theperfectdate.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The%20prodigy.jpg " group-title="ESTRENOS 2019",LA: The prodigy
+https://storage.googleapis.com/cinematv/2019/mayo/28%20mayo%20%20theprodigy.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The%20silence.jpg " group-title="ESTRENOS 2019",LA:  the silence
+https://storage.googleapis.com/cinematv/2019/mayo/29%20mayo%20%20thesilence.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The%20wandering%20earth.jpg " group-title="ESTRENOS 2019",LA: The wandering earth
+https://storage.googleapis.com/cinematv/2019/mayo/30%20mayo%20%20thewanderingearth.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Triple%20frontier.jpg " group-title="ESTRENOS 2019",LA: Triple frontera
+https://storage.googleapis.com/cinematv/2019/mayo/31%20mayo%20%20triplefrontier.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Velvet%20buzzsaw.jpg " group-title="ESTRENOS 2019",LA: Velvet Buzzsaw
+https://storage.googleapis.com/cinematv/2019/mayo/32%20mayo%20%20velvetbuzzsaw.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/venganza%20perfecta.jpg " group-title="ESTRENOS 2019",LA: venganza perfecta
+https://storage.googleapis.com/cinematv/2019/mayo/33%20mayo%20%20venganza%20perfecta.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: A dos metros de ti" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/What%20men%20want.jpg " group-title="ESTRENOS 2019",LA: Lo que los hombres quieren
+https://storage.googleapis.com/cinematv/2019/mayo/34%20mayo%20%20whatmenwant.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: Deadwood" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Deadwood.jpg " group-title="ESTRENOS 2019",LA: Deadwood
+https://storage.googleapis.com/cinematv/2019/mayo/37%20%20Deadwood.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: Intercambiadas" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Intercambiadas.jpg " group-title="ESTRENOS 2019",LA: Intercambiadas
+https://storage.googleapis.com/cinematv/2019/mayo/38%20%20Intercambiadas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: No manches frida" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/No%20manches%20Frida%202.jpg " group-title="ESTRENOS 2019",LA: No manches frida 2
+https://storage.googleapis.com/cinematv/2019/mayo/39%20%20No%20manches%20Frida%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: Parque magico" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Parque%20m%C3%A1gico.jpg " group-title="ESTRENOS 2019",LA: Parque magico
+https://storage.googleapis.com/cinematv/2019/mayo/40%20%20Parque%20m%C3%A1gico.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: The Mustang" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/The%20Mustang.jpg " group-title="ESTRENOS 2019",LA: The Mustang
+https://storage.googleapis.com/cinematv/2019/mayo/41%20The%20Mustang.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2019/mayo/IMG/Wine.country.jpg " group-title="ESTRENOS 2019",LA: Entre vino y vinagre
+https://storage.googleapis.com/cinematv/2019/mayo/42%20mayo%20%20winecountry.mp4
+
+
+//PELICULAS 2018//
+
+#EXTINF:-1 tvg-id="" tvg-name="###### Pelis 2018 ######" tvg-logo="https://storage.googleapis.com/cinematv/mantenimiento.gif" group-title="Pelis 2018",### Pelis 2018 ### 
+//P1
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Suspira%20el%20maligno.jpg " group-title="Pelis 2018",LA: Suspiria
+https://storage.googleapis.com/cinematv/2018/P1/39%202018%20%20Suspiria%20%20iptv-nando.net.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Regresa%20a%20mi.jpg " group-title="Pelis 2018",LA: Regresa a mi 
+https://storage.googleapis.com/cinematv/2018/P1/38%20%202018%20Regresa%20a%20mi%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/hotel%20mumbai.jpg " group-title="Pelis 2018",LA: Hotel Mumbai
+https://storage.googleapis.com/cinematv/2018/P1/37%20%202018%20Hotel%20Mumbai%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Trabajo%20de%20oro.jpg " group-title="Pelis 2018",LA: Trabajo de oro
+https://storage.googleapis.com/cinematv/2018/P1/36%20%202018%20Trabajo%20de%20oro%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/La%20jungla%202017.jpg " group-title="Pelis 2018",LA: La jungla
+https://storage.googleapis.com/cinematv/2018/P1/35%20%202018%20%20La%20jungla%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/El%20odio%20que%20das.jpg " group-title="Pelis 2018",LA: El odio que das
+https://storage.googleapis.com/cinematv/2018/P1/31%20%202018%20%20El%20odio%20que%20das.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/El%20collar%20rojo.jpg " group-title="Pelis 2018",LA: El collar rojo
+https://storage.googleapis.com/cinematv/2018/P1/30%20%202018%20%20El%20collar%20rojo%20%28Le%20collier%20rouge%29%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Morir%20para%20contar.jpg " group-title="Pelis 2018",LA:  Morir para contar
+https://storage.googleapis.com/cinematv/2018/P1/29%20%202018%20%20%20Morir%20para%20contar%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Tres%20id%C3%A9nticos%20desconocidos.jpg " group-title="Pelis 2018",LA: Tres identicos desconocidos
+https://storage.googleapis.com/cinematv/2018/P1/28%20%202018%20%20Tres%20id%C3%A9nticos%20desconocidos%20%28Three%20Identical%20Strangers%29%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Gonjiam%20Hospital%20maldito.jpg " group-title="Pelis 2018",LA: Gonjiam- Hospital maldito
+https://storage.googleapis.com/cinematv/2018/P1/26%20%202018%20%20%20Gonjiam-%20Hospital%20maldito%20%28Haunted%20Asylum%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/H%C3%A1blame%20de%20ti.jpg " group-title="Pelis 2018",LA: Hablame de ti
+https://storage.googleapis.com/cinematv/2018/P1/25%20%202018%20%20H%C3%A1blame%20de%20ti%20%282018%29%20HD%201080%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Un%20matrimonio%20peligroso.jpg " group-title="Pelis 2018",LA: Un matrimonio peligroso
+https://storage.googleapis.com/cinematv/2018/P1/24%20%20%202018%20%20%20%20Un%20matrimonio%20peligroso.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Loro.jpg " group-title="Pelis 2018",LA: Loro
+https://storage.googleapis.com/cinematv/2018/P1/23%20%20%202018%20%20%20%20Loro%20%28Loro-%20International%20Cut%29%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Green%20Book.jpg " group-title="Pelis 2018",LA: Una amistad sin fronteras
+https://storage.googleapis.com/cinematv/2018/P1/22%20%20%202018%20%20%20%20Green%20Book-%20Una%20amistad%20sin%20fronteras%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Decisi%C3%B3n%20extrema.jpg " group-title="Pelis 2018",LA: Decision extrema
+https://storage.googleapis.com/cinematv/2018/P1/21%20%20%202018%20%20%20%20Decisi%C3%B3n%20extrema%20%28An%20Acceptable%20Loss%29%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Coraz%C3%B3n%20borrado.jpg " group-title="Pelis 2018",LA: Corazon borrado
+https://storage.googleapis.com/cinematv/2018/P1/20%20%20%202018%20%20%20%20Coraz%C3%B3n%20borrado%20%28Boy%20Erased%29%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Witness%20Unprotected.jpg " group-title="Pelis 2018",LA: Witness Unprotected
+https://storage.googleapis.com/cinematv/2018/P1/19%20%20%202018%20%20%20Witness_Unprotected__2018__Latino_WEB-DL_1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/The%20Hate%20U%20Give.jpg " group-title="Pelis 2018",LA: The Hate U Give
+https://storage.googleapis.com/cinematv/2018/P1/18%20%20%202018%20%20%20The%20Hate%20U%20Give.2018.1080p.WEB-DL.Latino%20%281%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Slaughterhouse%20Rulez.jpg " group-title="Pelis 2018",LA: Slaughterhouse.Rulez
+https://storage.googleapis.com/cinematv/2018/P1/17%20%20%202018%20%20%20Slaughterhouse.Rulez.2018.HD.1080p.Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Mi%20nombre%20es%20ninguno.jpg " group-title="Pelis 2018",LA: Mi nombre es ninguno
+https://storage.googleapis.com/cinematv/2018/P1/16%20%20%202018%20%20%20Mi%20nombre%20es%20ninguno%20%281973%29%20BDRip%20m1080p%20by%20jose1969.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Mi%20Mascota%20es%20un%20Le%C3%B3n.jpg " group-title="Pelis 2018",LA: Mi mascota es un leom
+https://storage.googleapis.com/cinematv/2018/P1/15%20%20%202018%20%20%20Mi%20Mascota%20es%20un%20Le%C3%B3n%20%282018%29%20HD%20720p%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Mean%20Queen.jpg " group-title="Pelis 2018",LA: Mean Queen
+https://storage.googleapis.com/cinematv/2018/P1/14%20%20%202018%20%20%20Mean%20Queen%20%282018%29%20HD%201080p%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/La%20Mula.jpg " group-title="Pelis 2018",LA: La Mula
+https://storage.googleapis.com/cinematv/2018/P1/13%20%20%202018%20%20%20La%20Mula%20%282018%29%20WEB-DL%201080p%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Karma.jpg " group-title="Pelis 2018",LA: karma
+https://storage.googleapis.com/cinematv/2018/P1/12%20%20%202018%20%20%20Karma.2018.HD.1080p.Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Dry%20Martina.jpg " group-title="Pelis 2018",LA: Dry Martina
+https://storage.googleapis.com/cinematv/2018/P1/11%20%20%202018%20%20%20Dry%20Martina%20%282018%29%20HD%201080p%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Dragon%20Ball%20Super%20Broly.jpg " group-title="Pelis 2018",LA: Dragon.Ball.Super.Broly
+https://storage.googleapis.com/cinematv/2018/P1/10%20%20%202018%20%20%20Dragon.Ball.Super.Broly.2018.HD.1080p.Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Cucuy.jpg " group-title="Pelis 2018",LA: Cucuy
+https://storage.googleapis.com/cinematv/2018/P1/09%20%20%202018%20%20%20Cucuy%20-%20El%20Boogeyman%20%282018%29%20HD%201080p%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/collar%20%20rojo.jpg " group-title="Pelis 2018",LA: collar rojo
+https://storage.googleapis.com/cinematv/2018/P1/08%20%20%202018%20%20%20Coll4rR0jo.m1080p.yamil.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/La%20casa%20de%20Jack.jpg " group-title="Pelis 2018",LA: La casa de Jack
+https://storage.googleapis.com/cinematv/2018/P1/07%20%20%202018%20%20%20C4saJ4ck.m1080p.yamil.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Buffalo%20Boys.jpg " group-title="Pelis 2018",LA: Buffalo.Boys
+https://storage.googleapis.com/cinematv/2018/P1/06%20%20%202018%20%20%20Buffalo.Boys.2018.HD.1080p.Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Blue%20Iguana.jpg " group-title="Pelis 2018",LA: Blu3Igu4na
+https://storage.googleapis.com/cinematv/2018/P1/05%20%20%202018%20%20%20Blu3Igu4na.m1080p.yamil.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Beyond%20White%20Space.jpg " group-title="Pelis 2018",LA: Beyond.White.Space
+https://storage.googleapis.com/cinematv/2018/P1/04%20%20%202018%20%20%20Beyond.White.Space.2018.HD.1080p.Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Beast%20of%20Burden.jpg " group-title="Pelis 2018",LA: Bestia de carga
+https://storage.googleapis.com/cinematv/2018/P1/03%20%20%202018%20%20%20Beast.of.Burden.2018.1080p.Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/B0rd3r.jpg " group-title="Pelis 2018",LA: B0rd3r
+https://storage.googleapis.com/cinematv/2018/P1/02%20%20%202018%20%20%20B0rd3r.m1080p.yamil.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P1/Ast%C3%A9rix%20El%20secreto%20de%20la%20poci%C3%B3n%20m%C3%A1gica.jpg " group-title="Pelis 2018",LA: Asterix el secreto de la posion magica
+https://storage.googleapis.com/cinematv/2018/P1/01%20%20%202018%20%20%20Asterix.le.secret.de.la.potion.magique.2018.1080p-dual-cast.mp4
+
+//P2
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Welcome.to.marwen.2018.jpg " group-title="Pelis 2018",LA: Bienvenido a marwen
+https://storage.googleapis.com/cinematv/2018/P2/39%20%20Welcome%20to%20marwen%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/traffik.jpg " group-title="Pelis 2018",LA: Trafico
+https://storage.googleapis.com/cinematv/2018/P2/38%20%20Traffik%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Speed%20kills.jpg " group-title="Pelis 2018",LA: Speed kills
+https://storage.googleapis.com/cinematv/2018/P2/37%20%20Speed%20kills%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Replicas.jpg " group-title="Pelis 2018",LA: Replicas
+https://storage.googleapis.com/cinematv/2018/P2/36%20%20Replicas2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Pequeno%20gran%20hombre.jpg " group-title="Pelis 2018",LA: Pequeno gran hombre
+https://storage.googleapis.com/cinematv/2018/P2/35%20%20Pequeno%20gran%20hombre%20%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Mi%20obra%20maestra.jpg " group-title="Pelis 2018",LA:  Mi obra maestra
+https://storage.googleapis.com/cinematv/2018/P2/34%20%20Mi%20obra%20maestra%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Mandy.jpg " group-title="Pelis 2018",LA: Mandy
+https://storage.googleapis.com/cinematv/2018/P2/33%20%20Mandy2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Los%20inquilinos.jpg " group-title="Pelis 2018",LA: Los inquilinos
+https://storage.googleapis.com/cinematv/2018/P2/32%20%20Losinquilinos2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Loca%20por%20el%20trabajo.jpg " group-title="Pelis 2018",LA: Loca por el trabajo
+https://storage.googleapis.com/cinematv/2018/P2/31%20%20Loca%20por%20el%20trabajo%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/El%20dia%20de%20la%20union.jpg " group-title="Pelis 2018",LA:  El dia de la union
+https://storage.googleapis.com/cinematv/2018/P2/30%20%20Eldiadelaunion2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/bumblebee.jpg " group-title="Pelis 2018",LA: Bumblebee
+https://storage.googleapis.com/cinematv/2018/P2/29%20%20Bumblebee2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Assassination%20nation.jpg " group-title="Pelis 2018",LA: Nacion de asesinato
+https://storage.googleapis.com/cinematv/2018/P2/28%20%20Assassinationnation2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo="  http://iptvnando.net/imagenes/peliculas/2018/P2/Aquaman.jpg " group-title="Pelis 2018",LA: Aquaman
+https://storage.googleapis.com/cinematv/2018/P2/27%20%20Aquaman2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/10x10.jpg " group-title="Pelis 2018",LA: 10x10
+https://storage.googleapis.com/cinematv/2018/P2/26%20%2010%20x1020181080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Web%20oscura%20sin%20amigos%202018.jpg " group-title="Pelis 2018",LA: Web oscura sin amigos
+https://storage.googleapis.com/cinematv/2018/P2/25%20%20%20%20%20Web%20oscura%20sin%20amigos%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Sobre%20la%20base%20del%20sexo%20.2018.jpg " group-title="Pelis 2018",LA: Sobre la base del sexo
+https://storage.googleapis.com/cinematv/2018/P2/24%20%20%20%20%20Sobre%20la%20base%20del%20sexo%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Puntuaci%C3%B3n%20final%202018.jpg " group-title="Pelis 2018",LA: Puntuación final
+https://storage.googleapis.com/cinematv/2018/P2/23%20%20%20%20%20Puntuaci%C3%B3n%20final%202018%201080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Podr%C3%A1s%20perdonarme%20%20%282018%29.jpg " group-title="Pelis 2018",LA: Puedes perdonarme alguna vez
+https://storage.googleapis.com/cinematv/2018/P2/22%20%20%20%20%20Puedes%20perdonarme%20alguna%20vez%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Octavo%20grado%202018.jpg " group-title="Pelis 2018",LA: Octavo grado
+https://storage.googleapis.com/cinematv/2018/P2/21%20%20%20%20%20Octavo%20grado%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Mirar%20hacia%20otro%20lado%202018.jpg " group-title="Pelis 2018",LA: Mirar hacia otro lado
+https://storage.googleapis.com/cinematv/2018/P2/20%20%20%20%20%20Mirar%20hacia%20otro%20lado%202018%201080P.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Libro%20verde%202018.jpg " group-title="Pelis 2018",LA:  Libro verde
+https://storage.googleapis.com/cinematv/2018/P2/19%20%20%20%20%20Libro%20verde%202018%20%201080.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/La%20ni%C3%B1era%20%282018%29.jpg " group-title="Pelis 2018",LA: La ninera
+https://storage.googleapis.com/cinematv/2018/P2/18%20%20%20%20%20La%20ni%C3%B1era%202018%201080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Jefa%20por%20accidente%202018.jpg " group-title="Pelis 2018",LA: Jefa por accidente
+https://storage.googleapis.com/cinematv/2018/P2/17%20%20%20%20%20Jefa%20por%20accidente%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Holmes%20%26%20Watson%20%282018%29.jpg " group-title="Pelis 2018",LA: Holmes.and.watson
+https://storage.googleapis.com/cinematv/2018/P2/16%20%20%20%20%20Holmes.and.watson.2018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/En%20la%20puerta%20de%20la%20eternidad%202018.jpg " group-title="Pelis 2018",LA: En la puerta de la eternidad
+https://storage.googleapis.com/cinematv/2018/P2/15%20%20%20%20%20En%20la%20puerta%20de%20la%20eternidad%202018.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/El%20gordo%20y%20el%20flaco%202018.jpg " group-title="Pelis 2018",LA:  El gordo y el flaco
+https://storage.googleapis.com/cinematv/2018/P2/14%20%20%20%20%20El%20gordo%20y%20el%20flaco%202018..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/El%20amor%20menos%20pensado%202018.jpg " group-title="Pelis 2018",LA: El amor menos pensado
+https://storage.googleapis.com/cinematv/2018/P2/13%20%20%20%20%20El%20amor%20menos%20pensado%202018%201080.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Dumplin%202018.jpg " group-title="Pelis 2018",LA: Dumplin
+https://storage.googleapis.com/cinematv/2018/P2/12%20%20%20%20%20Dumplin%202018%201080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Destructor%202018.jpg " group-title="Pelis 2018",LA: Destructor 
+https://storage.googleapis.com/cinematv/2018/P2/11%20%20%20%20%20Destructor%202018%201080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Verano%20del%2084.jpg " group-title="Pelis 2018",LA: Verano del 84
+https://storage.googleapis.com/cinematv/2018/P2/10%20%20%20%20%20Verano%20del%2084.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Una%20entrevista%20con%20Dios.jpg " group-title="Pelis 2018",LA: Una entrevista con Dios
+https://storage.googleapis.com/cinematv/2018/P2/09%20%20%20%20%20Una%20entrevista%20con%20Dios.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Prospect.jpg " group-title="Pelis 2018",LA: Prospect
+https://storage.googleapis.com/cinematv/2018/P2/08%20%20%20%20%20Prospect.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Perfectos%20desconocidos.jpg " group-title="Pelis 2018",LA: Perfectos desconocidos
+https://storage.googleapis.com/cinematv/2018/P2/07%20%20%20%20%20Perfectos%20desconocidos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/P%C3%A1jaros%20de%20verano.jpg " group-title="Pelis 2018",LA: Pajaros de verano
+https://storage.googleapis.com/cinematv/2018/P2/06%20%20%20%20%20Pajaros%20de%20verano%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/My%20Hero%20Academia.jpg " group-title="Pelis 2018",LA: My Hero Academia
+https://storage.googleapis.com/cinematv/2018/P2/05%20%20%20%20%20My%20Hero%20Academia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/La%20perfecci%C3%B3n.jpg " group-title="Pelis 2018",LA:  La perfeccion
+https://storage.googleapis.com/cinematv/2018/P2/04%20%20%20%20%20La%20perfecci%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Dragged%20Across%20Concrete.jpg " group-title="Pelis 2018",LA: Dragged Across Concrete
+https://storage.googleapis.com/cinematv/2018/P2/03%20%20%20%20%20Dragged%20Across%20Concrete.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P2/Blood%20Brother.jpg " group-title="Pelis 2018",LA: Blood Brother
+https://storage.googleapis.com/cinematv/2018/P2/02%20%20%20%20%20Blood%20Brother.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/iptvnando.net/imagenes/peliculas/2018/P2/American%20Animals.jpg " group-title="Pelis 2018",LA: American Animals
+https://storage.googleapis.com/cinematv/2018/P2/01%20%20%20%20%20American%20Animals.mp4
+
+//P3
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Wifi%20Ralph.jpg " group-title="Pelis 2018",LA: Wifi Ralph
+https://storage.googleapis.com/cinematv/2018/P3/28%20%20%20Wifi%20Ralph.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Viudas.jpg " group-title="Pelis 2018",LA: Viudas
+https://storage.googleapis.com/cinematv/2018/P3/27%20%20%20Viudas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/The%20grinch.jpg " group-title="Pelis 2018",LA: The.grinch
+https://storage.googleapis.com/cinematv/2018/P3/26%20%20%20The.grinch.2018..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Spider%20Man%20Un%20nuevo%20universo.jpg " group-title="Pelis 2018",LA: Spider-Man Un nuevo universo
+https://storage.googleapis.com/cinematv/2018/P3/25%20%20%20Spider-Man%20Un%20nuevo%20universo%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Robin%20hood.jpg " group-title="Pelis 2018",LA:  Robin.hood
+https://storage.googleapis.com/cinematv/2018/P3/24%20%20%20Robin.hood.2018.1080p-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Rapsodia%20Bohemia.jpg " group-title="Pelis 2018",LA: Rapsodia Bohemia
+https://storage.googleapis.com/cinematv/2018/P3/23%20%20%20Rapsodia%20Bohemia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/maquinas%20mortales.jpg " group-title="Pelis 2018",LA: Maquinas mortales
+https://storage.googleapis.com/cinematv/2018/P3/22%20%20%20Maquinas%20mortales.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Mal%20samaritano.jpg " group-title="Pelis 2018",LA: Mal samaritano
+https://storage.googleapis.com/cinematv/2018/P3/21%20%20%20Mal%20samaritano.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Lizzie.2018.jpg " group-title="Pelis 2018",LA: Lizzie
+https://storage.googleapis.com/cinematv/2018/P3/20%20%20%20Lizzie.2018..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Las%20separadoras%20de%20parejas.jpg " group-title="Pelis 2018",LA: Las separadoras de parejas
+https://storage.googleapis.com/cinematv/2018/P3/19%20%20%20Las%20separadoras%20de%20parejas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Las%20dos%20reinas.jpg " group-title="Pelis 2018",LA: Las dos reinas
+https://storage.googleapis.com/cinematv/2018/P3/18%20%20%20Las%20dos%20reinas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/La%20princesa%20robada.jpg " group-title="Pelis 2018",LA: La princesa robada
+https://storage.googleapis.com/cinematv/2018/P3/17%20%20%20La%20princesa%20robada.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/La%20ni%C3%B1a%20en%20la%20tela%20de%20ara%C3%B1a..jpg " group-title="Pelis 2018",LA: La niña en la tela de araña
+https://storage.googleapis.com/cinematv/2018/P3/16%20%20%20La%20ni%C3%B1a%20en%20la%20tela%20de%20ara%C3%B1a..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/La%20favorita.jpg " group-title="Pelis 2018",LA: La favorita
+https://storage.googleapis.com/cinematv/2018/P3/15%20%20%20La%20favorita.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Indivisible.jpg " group-title="Pelis 2018",LA:  Indivisible
+https://storage.googleapis.com/cinematv/2018/P3/14%20%20%20Indivisible.2018..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Ha%20nacido%20una%20estrella.jpg " group-title="Pelis 2018",LA: Ha nacido una estrella
+https://storage.googleapis.com/cinematv/2018/P3/13%20%20%20Ha%20nacido%20una%20estrella.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Familia%20al%20instante.jpg " group-title="Pelis 2018",LA: Familia al instante
+https://storage.googleapis.com/cinematv/2018/P3/12%20%20%20Familia%20al%20instante.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/El%20regreso%20de%20Mary%20Poppins.jpg " group-title="Pelis 2018",LA: El regreso de Mary Poppin
+https://storage.googleapis.com/cinematv/2018/P3/11%20%20%20El%20regreso%20de%20Mary%20Poppins.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/El%20cascanueces%20y%20los%20cuatro%20reinos..jpg " group-title="Pelis 2018",LA: El cascanueces y los cuatro reinos
+https://storage.googleapis.com/cinematv/2018/P3/10%20%20%20El%20cascanueces%20y%20los%20cuatro%20reinos..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/El%20candidato.jpg " group-title="Pelis 2018",LA: El candidato
+https://storage.googleapis.com/cinematv/2018/P3/09%20%20%20El%20candidato.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/El%20%C3%81ngel.jpg " group-title="Pelis 2018",LA: El angel
+https://storage.googleapis.com/cinematv/2018/P3/08%20%20%20El%20%C3%81ngel.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/De%20tonta%20%20nada%20.jpg " group-title="Pelis 2018",LA: De tonta  nada
+https://storage.googleapis.com/cinematv/2018/P3/07%20%20%20De%20tonta%20%20nada%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Creed%20II.jpg " group-title="Pelis 2018",LA: Creed 2
+https://storage.googleapis.com/cinematv/2018/P3/06%20%20%20Creed.II.2018.1080p-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Colette.jpg " group-title="Pelis 2018",LA: Colette
+https://storage.googleapis.com/cinematv/2018/P3/05%20%20%20Colette.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Chico%20borrado.jpg " group-title="Pelis 2018",LA: Chico borrado
+https://storage.googleapis.com/cinematv/2018/P3/04%20%20%20Chico%20borrado.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Cazador%20asesino.jpg " group-title="Pelis 2018",LA: Cazador asesino
+https://storage.googleapis.com/cinematv/2018/P3/03%20%20%20Cazador%20asesino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Cadaver.jpg " group-title="Pelis 2018",LA: cadaver
+https://storage.googleapis.com/cinematv/2018/P3/02%20%20%20Cadaver.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P3/Animales%20Fant%C3%A1sticos.jpg " group-title="Pelis 2018",LA: Animales Fantasticos
+https://storage.googleapis.com/cinematv/2018/P3/01%20%20%20Animales%20Fant%C3%A1sticos.mp4
+
+//P4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Ruta%20ininterrumpida.para%20la%20redenci%C3%B3n.jpg " group-title="Pelis 2018",LA: Ruta ininterrumpida.para la redencion
+https://storage.googleapis.com/cinematv/2018/P4/29%20%20%20%20Ruta%20ininterrumpida.para%20la%20redenci%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Primer%20hombre%20en%20la%20luna.jpg " group-title="Pelis 2018",LA: Primer hombre en la luna
+https://storage.googleapis.com/cinematv/2018/P4/28%20%20%20%20Primer%20hombre%20en%20la%20luna.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Plan%205.jpg " group-title="Pelis 2018",LA: Plan.v
+https://storage.googleapis.com/cinematv/2018/P4/27%20%20%20%20Plan.v.2018.1080p-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/No%20dormiras.jpg " group-title="Pelis 2018",LA: No.dormiras
+https://storage.googleapis.com/cinematv/2018/P4/26%20%20%20%20No.dormiras.2018.1080p-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Los%20siete%20pecados%20mortales%20de%20los%20prisioneros%20del%20cielo..jpg " group-title="Pelis 2018",LA: Los siete pecados mortales de los prisioneros del cielo
+https://storage.googleapis.com/cinematv/2018/P4/25%20%20%20%20Los%20siete%20pecados%20mortales%20de%20los%20prisioneros%20del%20cielo..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Loco%20del%20tiempo.jpg " group-title="Pelis 2018",LA: Loco del tiempo
+https://storage.googleapis.com/cinematv/2018/P4/24%20%20%20%20Loco%20del%20tiempo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/La%20temporada%20de%20milagros.jpg " group-title="Pelis 2018",LA: La temporada de milagros
+https://storage.googleapis.com/cinematv/2018/P4/23%20%20%20%20La%20temporada%20de%20milagros.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Johnny%20Ingl%C3%A9s%20ataca%20de%20nuevo.jpg " group-title="Pelis 2018",LA: Johnny Ingles ataca de nuevo
+https://storage.googleapis.com/cinematv/2018/P4/22%20%20%20%20Johnny%20Ingl%C3%A9s%20ataca%20de%20nuevo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Hellfest.jpg " group-title="Pelis 2018",LA: Hellfest
+https://storage.googleapis.com/cinematv/2018/P4/21%20%20%20%20Hellfest.2018.1080p-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Halloween.jpg " group-title="Pelis 2018",LA: Halloween
+https://storage.googleapis.com/cinematv/2018/P4/20%20%20%20%20Halloween.2018.1080p-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/Goosebumps%202%20haunted%20halloween.jpg " group-title="Pelis 2018",LA: Goosebumps 2 haunted halloween
+https://storage.googleapis.com/cinematv/2018/P4/19%20%20%20%20Goosebumps.2.haunted.halloween.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/El%20viejo%20y%20la%20pistola..jpg " group-title="Pelis 2018",LA: El viejo y la pistola
+https://storage.googleapis.com/cinematv/2018/P4/18%20%20%20%20El%20viejo%20y%20la%20pistola..mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/El%20legado.jpg " group-title="Pelis 2018",LA: El legado
+https://storage.googleapis.com/cinematv/2018/P4/17%20%20%20%20El%20legado.2018.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/buscando.jpg " group-title="Pelis 2018",LA: buscando
+https://storage.googleapis.com/cinematv/2018/P4/16%20%20%20%20buscando.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Ya%20veremos.jpg " group-title="Pelis 2018",LA: Ya veremos
+https://storage.googleapis.com/cinematv/2018/P4/15%20%20%20%20Ya.veremos.15.1080p-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Un%20peque%C3%B1o%20favor.jpg " group-title="Pelis 2018",LA: Un pequeno favor
+https://storage.googleapis.com/cinematv/2018/P4/14%20%20%20%20Un%20peque%C3%B1o%20favor.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Sonidos%20del%20coraz%C3%B3n.jpg " group-title="Pelis 2018",LA: Sonidos del corazon
+https://storage.googleapis.com/cinematv/2018/P4/13%20%20%20%20Sonidos%20del%20coraz%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20roma.jpg " group-title="Pelis 2018",LA: Roma
+https://storage.googleapis.com/cinematv/2018/P4/12%20%20%20%20Roma.12.1080p-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Pok%C3%A9mon%20la%20pel%C3%ADcula.jpg " group-title="Pelis 2018",LA: Pokemon la pelicula
+https://storage.googleapis.com/cinematv/2018/P4/11%20%20%20%20Pok%C3%A9mon%20la%20pel%C3%ADcula.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20matar%20o%20morir.jpg " group-title="Pelis 2018",LA: Matar o morir
+https://storage.googleapis.com/cinematv/2018/P4/10%20%20%20%20Matar%20o%20morirMatar%20o%20morir.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Malos%20momentos%20en%20el%20Hotel%20Royale.jpg " group-title="Pelis 2018",LA: Malos momentos en el Hotel Royale
+https://storage.googleapis.com/cinematv/2018/P4/09%20%20%20%20Malos%20momentos%20en%20el%20Hotel%20Royale.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20La%20tierra%20de%20h%C3%A1bitos%20constantes.jpg " group-title="Pelis 2018",LA: La tierra de habitos constantes
+https://storage.googleapis.com/cinematv/2018/P4/08%20%20%20%20La%20tierra%20de%20h%C3%A1bitos%20constantes.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20La%20casa%20con%20un%20reloj%20en%20sus%20paredes.jpg " group-title="Pelis 2018",LA: La casa con un reloj en sus paredes
+https://storage.googleapis.com/cinematv/2018/P4/07%20%20%20%20La%20casa%20con%20un%20reloj%20en%20sus%20paredes.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Junto%20con%20los%20dioses%2005.jpg " group-title="Pelis 2018",LA: junto con los Dioses
+https://storage.googleapis.com/cinematv/2018/P4/06%20%20%20%20Junto%20con%20los%20dioses%2006.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Mundo%20futuro.jpg " group-title="Pelis 2018",LA: Future world
+https://storage.googleapis.com/cinematv/2018/P4/05%20%20%20%20Future%20world.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Extra%C3%B1a%20presencia.jpg " group-title="Pelis 2018",LA: ExtraNa presencia
+https://storage.googleapis.com/cinematv/2018/P4/04%20%20%20%20Extra%C3%B1a%20presencia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20Escuela%20nocturna.jpg " group-title="Pelis 2018",LA: Escuela nocturna
+https://storage.googleapis.com/cinematv/2018/P4/03%20%20%20%20Escuela%20nocturna.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20A%20x%20l%20%2002.jpg " group-title="Pelis 2018",LA: A X L
+https://storage.googleapis.com/cinematv/2018/P4/02%20%20%20%20A.x.l.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P4/%20%20%20%20A%20ciegas.jpg " group-title="Pelis 2018",LA: A ciegas
+https://storage.googleapis.com/cinematv/2018/P4/01%20%20%20%20A%20ciegas.mp4
+
+//P5
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/The%20Black%20Klansman.jpg " group-title="Pelis 2018",LA: The Black Klansman
+https://storage.googleapis.com/cinematv/2018/P5/30%20%20The%20Black%20Klansman.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Rey%20proscrito.jpg " group-title="Pelis 2018",LA: Rey proscrito
+https://storage.googleapis.com/cinematv/2018/P5/29%20%20Rey%20proscrito.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Punto%20ciego.jpg " group-title="Pelis 2018",LA:  Punto ciego
+https://storage.googleapis.com/cinematv/2018/P5/28%20%20%20%20Punto%20ciego.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Por%20un%20pasillo%20oscuro.jpg " group-title="Pelis 2018",LA: Por un pasillo oscuro
+https://storage.googleapis.com/cinematv/2018/P5/27%20%20%20%20Por%20un%20pasillo%20oscuro.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Por%20siempre%20mi%20chica.jpg " group-title="Pelis 2018",LA: Por siempre mi chica
+https://storage.googleapis.com/cinematv/2018/P5/26%20%20%20%20Por%20siempre%20mi%20chica.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Nostalgia.jpg " group-title="Pelis 2018",LA: Nostalgia
+https://storage.googleapis.com/cinematv/2018/P5/25%20%20%20%20Nostalgia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/No%20dejar%20rastro.jpg " group-title="Pelis 2018",LA: No dejar rastro
+https://storage.googleapis.com/cinematv/2018/P5/24%20%20%20%20No%20dejar%20rastro.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Mission.impossible.fallout.jpg " group-title="Pelis 2018",LA: Mission.impossible.fallout
+https://storage.googleapis.com/cinematv/2018/P5/23%20%20%20%20Mission.impossible.fallout.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Los%20Incre%C3%ADbles%202.jpg " group-title="Pelis 2018",LA: Los Incredibles 2
+https://storage.googleapis.com/cinematv/2018/P5/22%20%20%20%20Los%20Incredibles%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Locamente%20millonarios.jpg " group-title="Pelis 2018",LA: Locamente millonarios
+https://storage.googleapis.com/cinematv/2018/P5/21%20%20%20%20Locamente%20millonarios.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/La%20balada%20de%20buster%20scruggs.jpg " group-title="Pelis 2018",LA: La balada de buster scruggs
+https://storage.googleapis.com/cinematv/2018/P5/20%20%20%20%20La%20balada%20de%20buster%20scruggs.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Julieta%20desnuda.jpg " group-title="Pelis 2018",LA: Julieta desnuda
+https://storage.googleapis.com/cinematv/2018/P5/19%20%20%20%20Julieta%20desnuda.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/El%20meg.jpg " group-title="Pelis 2018",LA:  El meg
+https://storage.googleapis.com/cinematv/2018/P5/18%20%20%20%20El%20meg.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/El%20ecualizador.jpg " group-title="Pelis 2018",LA: El ecualizador
+https://storage.googleapis.com/cinematv/2018/P5/17%20%20%20%20El%20ecualizador.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/El%20cambio%20de%20princesa.jpg " group-title="Pelis 2018",LA: El cambio de princesa
+https://storage.googleapis.com/cinematv/2018/P5/16%20%20%20%20El%20cambio%20de%20princesa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Venom.jpg " group-title="Pelis 2018",LA: Venom
+https://storage.googleapis.com/cinematv/2018/P5/15%20%20%20%20Venom.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/El%20ahora.jpg " group-title="Pelis 2018",LA: El ahora
+https://storage.googleapis.com/cinematv/2018/P5/14%20%20%20El%20ahora.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/La%20mujer%20mas%20asesinada%20del%20mundo.jpg " group-title="Pelis 2018",LA: La mujer mas asesinada del mundo
+https://storage.googleapis.com/cinematv/2018/P5/13%20%20%20La%20mujer%20mas%20asesinada%20del%20mundo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Los%20asesinatos%20de%20happytime.jpg " group-title="Pelis 2018",LA:  Los asesinatos de happytime
+https://storage.googleapis.com/cinematv/2018/P5/12%20%20%20Los%20asesinatos%20de%20happytime.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Los%20domesticos.jpg " group-title="Pelis 2018",LA: Los domesticos
+https://storage.googleapis.com/cinematv/2018/P5/11%20%20%20Los%20domesticos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Las%20cronicas%20navidenas.jpg " group-title="Pelis 2018",LA: Las cronicas navidenas
+https://storage.googleapis.com/cinematv/2018/P5/10%20%20%20Las%20cronicas%20navidenas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Superfly.jpg " group-title="Pelis 2018",LA: Superfly
+https://storage.googleapis.com/cinematv/2018/P5/09%20%20%20Superfly.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Smallfoot%202018.jpg " group-title="Pelis 2018",LA: Pie pequeno
+https://storage.googleapis.com/cinematv/2018/P5/08%20%20%20Pie%20peque%C3%B1o.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Mowgli.jpg " group-title="Pelis 2018",LA: Mowgli
+https://storage.googleapis.com/cinematv/2018/P5/07%20%20%20Mowgli.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Mile%2022.jpg " group-title="Pelis 2018",LA: Mile
+https://storage.googleapis.com/cinematv/2018/P5/06%20%20%20Mile.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/the-predator.jpg " group-title="Pelis 2018",LA: El Depredador
+https://storage.googleapis.com/cinematv/2018/P5/05%20%20%20El%20Depredador.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Calibre.jpg " group-title="Pelis 2018",LA: Calibre
+https://storage.googleapis.com/cinematv/2018/P5/04%20%20%20Calibre.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Battle.jpg " group-title="Pelis 2018",LA: Battle
+https://storage.googleapis.com/cinematv/2018/P5/03%20%20%20Battle.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Alpha%202018.jpg " group-title="Pelis 2018",LA: Alpha.
+https://storage.googleapis.com/cinematv/2018/P5/02%20%20%20Alpha.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P5/Un%20principe%20de%20navidad%20la%20boda%20real.jpg " group-title="Pelis 2018",LA: Un principe de navidad la boda real
+https://storage.googleapis.com/cinematv/2018/P5/01%20%20%20Un%20principe%20de%20navidad%20la%20boda%20real.mp4
+
+//P6
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Vida%20privada.jpg " group-title="Pelis 2018",LA: Vida privada
+https://storage.googleapis.com/cinematv/2018/P6/30%20%20%20%20Vida%20privada%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Tio%20dibujo.jpg " group-title="Pelis 2018",LA:  Tio dibujo
+https://storage.googleapis.com/cinematv/2018/P6/29%20%20%20%20Tio%20dibujo%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Tierra%20fantasma.jpg " group-title="Pelis 2018",LA: Tierra fantasma
+https://storage.googleapis.com/cinematv/2018/P6/28%20%20%20%20Tierra%20fantasma%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Sicario%20dia%20del%20soldado.jpg " group-title="Pelis 2018",LA: Sicario dia del soldado
+https://storage.googleapis.com/cinematv/2018/P6/27%20%20%20%20Sicario%20dia%20del%20soldado%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Siberia.jpg " group-title="Pelis 2018",LA: Siberia
+https://storage.googleapis.com/cinematv/2018/P6/26%20%20%20%20Siberia%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Rascacielos.jpg " group-title="Pelis 2018",LA: Rascacielos
+https://storage.googleapis.com/cinematv/2018/P6/25%20%20%20%20Rascacielos%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Operacion%20final.jpg " group-title="Pelis 2018",LA: Operacion final
+https://storage.googleapis.com/cinematv/2018/P6/24%20%20%20%20Operacion%20final%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Mantener%20la%20oscuridad.jpg " group-title="Pelis 2018",LA: Mantener la oscuridad 
+https://storage.googleapis.com/cinematv/2018/P6/23%20%20%20%20Mantener%20la%20oscuridad%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/La%20primera%20purga.jpg " group-title="Pelis 2018",LA:  La primera purga
+https://storage.googleapis.com/cinematv/2018/P6/22%20%20%20%20La%20primera%20purga%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Hotel.transylvania.3.summer.vacation.jpg " group-title="Pelis 2018",LA:  Hotel transylvania 3 
+https://storage.googleapis.com/cinematv/2018/P6/21%20%20%20%20Hotel%20transylvania%203%20summer%20vacation%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Hotel.artemis.jpg " group-title="Pelis 2018",LA: Hotel artemis
+https://storage.googleapis.com/cinematv/2018/P6/20%20%20%20%20Hotel%20artemis%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Hasta.que.la.boda.nos.separe.jpg " group-title="Pelis 2018",LA: Hasta que la boda nos separe
+https://storage.googleapis.com/cinematv/2018/P6/19%20%20%20%20Hasta%20que%20la%20boda%20nos%20separe%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Felizmente%20para%20siempre.jpg " group-title="Pelis 2018",LA: Felizmente para siempre 
+https://storage.googleapis.com/cinematv/2018/P6/18%20%20%20%20Felizmente%20para%20siempre%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Barro%20blanco.jpg " group-title="Pelis 2018",LA: Barro blanco
+https://storage.googleapis.com/cinematv/2018/P6/17%20%20%20%20Barro%20blanco%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Ant-man%20y%20la%20avispa.jpg " group-title="Pelis 2018",LA: Ant-man y la avispa
+https://storage.googleapis.com/cinematv/2018/P6/16%20%20%20%20Ant-man%20y%20la%20avispa%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/El%20espia%20que%20me%20dejo.jpg " group-title="Pelis 2018",LA: El espia que me dejo
+https://storage.googleapis.com/cinematv/2018/P6/15%20%20%20%20El%20espia%20que%20me%20dejo%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/La%20noche%20viene%20para%20nosotros.jpg " group-title="Pelis 2018",LA: La noche viene para nosotros
+https://storage.googleapis.com/cinematv/2018/P6/14%20%20%20%20La%20noche%20viene%20para%20nosotros%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo="  http://iptvnando.net/imagenes/peliculas/2018/P6/Las%20mentes%20mas%20oscuras.jpg  " group-title="Pelis 2018",LA: Las mentes mas oscuras
+https://storage.googleapis.com/cinematv/2018/P6/13%20%20%20%20Las%20mentes%20mas%20oscuras%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Jovenes%20titanes%20van%20al%20cine.jpg " group-title="Pelis 2018",LA:  Jovenes titanes van al cine
+https://storage.googleapis.com/cinematv/2018/P6/12%20%20%20%20Jovenes%20titanes%20van%20al%20cine%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Hombre%20delgado.jpg " group-title="Pelis 2018",LA: Hombre delgado 
+https://storage.googleapis.com/cinematv/2018/P6/11%20%20%20%20Hombre%20delgado%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Paciente%20cero.jpg " group-title="Pelis 2018",LA: 10    Paciente cero 2018
+https://storage.googleapis.com/cinematv/2018/P6/10%20%20%20%20Paciente%20cero%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Mama%20aqui%20vamos%20de%20nuevo.jpg " group-title="Pelis 2018",LA: Mama aqui vamos de nuevo
+https://storage.googleapis.com/cinematv/2018/P6/09%20%20%20%20Mama%20aqui%20vamos%20de%20nuevo%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Entrante.jpg " group-title="Pelis 2018",LA: Entrante 
+https://storage.googleapis.com/cinematv/2018/P6/08%20%20%20%20Entrante%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Illang%20la%20brigada%20lobo.jpg " group-title="Pelis 2018",LA: Illang la brigada lobo
+https://storage.googleapis.com/cinematv/2018/P6/07%20%20%20%20Illang%20la%20brigada%20lobo%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" Plan de escape 2 hades  " group-title="Pelis 2018",LA: Plan de escape 2 hades 
+https://storage.googleapis.com/cinematv/2018/P6/06%20%20%20Plan%20de%20escape%202%20hades%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" https://storage.googleapis.com/cinematv/2018/P6/05%20%20%20%20Constantina%20ciudad%20de%20demonios%202018.mp4 " group-title="Pelis 2018",LA: Constantina ciudad de demonios
+https://storage.googleapis.com/cinematv/2018/P6/05%20%20%20%20Constantina%20ciudad%20de%20demonios%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Christopher.robin.jpg " group-title="Pelis 2018",LA: Christopher robin
+https://storage.googleapis.com/cinematv/2018/P6/04%20%20%20%20Christopher%20robin%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/Apostol.jpg" group-title="Pelis 2018",LA: Apostol 
+https://storage.googleapis.com/cinematv/2018/P6/03%20%20%20%20Apostol%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/A%20la%20deriva.jpg " group-title="Pelis 2018",LA: A la deriv
+https://storage.googleapis.com/cinematv/2018/P6/02%20%20%20%20A%20la%20deriva%202018.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P6/22.july.jpg " group-title="Pelis 2018",LA:  22 july
+https://storage.googleapis.com/cinematv/2018/P6/01%20%20%20%2022%20july%202018.mp4
+
+//P7
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Te%20atrape.jpg " group-title="Pelis 2018",LA: Te atrape
+https://storage.googleapis.com/cinematv/2018/P7/30%20%20%20%20Te%20atrape.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Punto%20de%20accion.jpg " group-title="Pelis 2018",LA: Punto de accion
+https://storage.googleapis.com/cinematv/2018/P7/29%20%20%20%20Punto%20de%20accion.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Perdida.jpg " group-title="Pelis 2018",LA: Perdida
+https://storage.googleapis.com/cinematv/2018/P7/28%20%20%20%20Perdida.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Mostrar%20perros.jpg " group-title="Pelis 2018",LA: Mostrar perros
+https://storage.googleapis.com/cinematv/2018/P7/27%20%20%20%20Mostrar%20perros.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Mejorar.jpg " group-title="Pelis 2018",LA: Mejorar
+https://storage.googleapis.com/cinematv/2018/P7/26%20%20%20%20Mejorar.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/La%20muerte%20de%20superman.jpg " group-title="Pelis 2018",LA: La muerte de superman
+https://storage.googleapis.com/cinematv/2018/P7/25%20%20%20%20La%20muerte%20de%20superman.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/La%20fiesta%20posterior.jpg " group-title="Pelis 2018",LA: La fiesta posterior
+https://storage.googleapis.com/cinematv/2018/P7/24%20%20%20%20La%20fiesta%20posterior.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/El%20ultimo%20testigo.jpg " group-title="Pelis 2018",LA: El ultimo testigo
+https://storage.googleapis.com/cinematv/2018/P7/23%20%20%20%20El%20ultimo%20testigo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/El%20paquete.jpg " group-title="Pelis 2018",LA: El paquete
+https://storage.googleapis.com/cinematv/2018/P7/22%20%20%20%20El%20paquete.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Dios%20no%20esta%20muerto%203.jpg " group-title="Pelis 2018",LA: Dios no esta muerto 3
+https://storage.googleapis.com/cinematv/2018/P7/21%20%20%20%20Dios%20no%20esta%20muerto%203.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Deadpool.2.jpg " group-title="Pelis 2018",LA: Deadpool.2
+https://storage.googleapis.com/cinematv/2018/P7/20%20%20%20%20Deadpool.2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Cuando%20ellas%20quieren.jpg " group-title="Pelis 2018",LA: Cuando ellas quiere
+https://storage.googleapis.com/cinematv/2018/P7/19%20%20%20%20Cuando%20ellas%20quieren.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Como%20padre.jpg " group-title="Pelis 2018",LA: Como padre
+https://storage.googleapis.com/cinematv/2018/P7/18%20%20%20%20Como%20padre.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Avengers.infinity.war.2018.jpg " group-title="Pelis 2018",LA: Avengers.infinity.war
+https://storage.googleapis.com/cinematv/2018/P7/17%20%20%20%20Avengers.infinity.war%20%20iptv-nando.net.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/A%20todos%20los%20ninos%20que%20he%20amado%20antes.jpg " group-title="Pelis 2018",LA: A todos los ninos que he amado antes
+https://storage.googleapis.com/cinematv/2018/P7/16%20%20%20%20A%20todos%20los%20ninos%20que%20he%20amado%20antes.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Solo%20una%20historia%20de%20Star%20Wars.jpg " group-title="Pelis 2018",LA: Solo una historia de Star Wars
+https://storage.googleapis.com/cinematv/2018/P7/15%20%20%20%20Solo%20una%20historia%20de%20Star%20Wars.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Siguiente%20generacion.jpg " group-title="Pelis 2018",LA: Siguiente generacion
+https://storage.googleapis.com/cinematv/2018/P7/14%20%20%20%20Siguiente%20generacion.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Sierra%20burgess%20es%20un%20perdedor.jpg " group-title="Pelis 2018",LA: Sierra burgess es un perdedor
+https://storage.googleapis.com/cinematv/2018/P7/13%20%20%20%20Sierra%20burgess%20es%20un%20perdedor.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Ocho%20oceanos.jpg " group-title="Pelis 2018",LA: Ocho oceanos
+https://storage.googleapis.com/cinematv/2018/P7/12%20%20%20%20Ocho%20oceanos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Mundo%20jurasico%20reino%20caido.jpg " group-title="Pelis 2018",LA: Mundo jurasico reino caido
+https://storage.googleapis.com/cinematv/2018/P7/11%20%20%20%20Mundo%20jurasico%20reino%20caido.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Lejia.jpg " group-title="Pelis 2018",LA: Lejia
+https://storage.googleapis.com/cinematv/2018/P7/10%20%20%20%20Lejia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/La%20noche%20devoro%20el%20mundo.jpg " group-title="Pelis 2018",LA: La noche devoro el mundo
+https://storage.googleapis.com/cinematv/2018/P7/09%20%20%20%20La%20noche%20devoro%20el%20mundo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/La.leyenda.del.charro.negro.jpg " group-title="Pelis 2018",LA: La  leyenda  del  charro  negro
+https://storage.googleapis.com/cinematv/2018/P7/08%20%20%20%20La%20%20leyenda%20%20del%20%20charro%20%20negro.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/Hombre%20girando.jpg " group-title="Pelis 2018",LA: Hombre girando
+https://storage.googleapis.com/cinematv/2018/P7/07%20%20%20%20Hombre%20girando.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/El%20legado%20del%20diablo.jpg " group-title="Pelis 2018",LA: El legado del diablo
+https://storage.googleapis.com/cinematv/2018/P7/06%20%20%20%20El%20legado%20del%20diablo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/El%20banquero%20de%20la%20resistencia.jpg " group-title="Pelis 2018",LA: El banquero de la resistencia
+https://storage.googleapis.com/cinematv/2018/P7/05%20%20%20%20El%20banquero%20de%20la%20resistencia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/El%20angel.jpg " group-title="Pelis 2018",LA: El angel
+https://storage.googleapis.com/cinematv/2018/P7/04%20%20%20%20El%20angel.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/curioso%20americano.jpg " group-title="Pelis 2018",LA: Curioso americano
+https://storage.googleapis.com/cinematv/2018/P7/03%20%20%20%20Curioso%20americano.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo="http://iptvnando.net/imagenes/peliculas/2018/P7/Amor%20de%20media%20noche.jpg  " group-title="Pelis 2018",LA: Amor de media noche
+https://storage.googleapis.com/cinematv/2018/P7/02%20%20%20%20Amor%20de%20media%20noche.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P7/7%20dias%20enteros.jpg " group-title="Pelis 2018",LA:  7 dias enteros
+https://storage.googleapis.com/cinematv/2018/P7/01%20%20%20%207%20dias%20enteros.mp4
+
+//P8
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Hombre%20al%20agua.jpg " group-title="Pelis 2018",LA: Hombre al agua
+https://storage.googleapis.com/cinematv/2018/P8/31%20Hombre%20al%20agua.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Verdadero%20o%20reto.jpg " group-title="Pelis 2018",LA: Verdadero o reto
+https://storage.googleapis.com/cinematv/2018/P8/30%20%20Verdadero%20o%20reto.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Un%20lugar%20en%20silencio.jpg " group-title="Pelis 2018",LA: Un lugar en silencio
+https://storage.googleapis.com/cinematv/2018/P8/29%20%20Un%20lugar%20en%20silencio.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Terminal.jpg " group-title="Pelis 2018",LA: Terminal
+https://storage.googleapis.com/cinematv/2018/P8/28%20%20Terminal.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/tau.jpg " group-title="Pelis 2018",LA: TAU
+https://storage.googleapis.com/cinematv/2018/P8/27%20%20au.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Super.troopers.2.jpg " group-title="Pelis 2018",LA: Super.troopers.2
+https://storage.googleapis.com/cinematv/2018/P8/26%20%20Super.troopers.2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Sexy%20por%20accidente.jpg " group-title="Pelis 2018",LA: Sexy por accidente
+https://storage.googleapis.com/cinematv/2018/P8/25%20%20Sexy%20por%20accidente.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Proyecto%20Rampage.jpg " group-title="Pelis 2018",LA:Proyecto Rampage
+https://storage.googleapis.com/cinematv/2018/P8/24%20%20Proyecto%20Rampage.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Prepararlo.jpg " group-title="Pelis 2018",LA: Prepararlo
+https://storage.googleapis.com/cinematv/2018/P8/23%20%20Prepararlo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Pablo%20apostol%20de%20cristo.jpg " group-title="Pelis 2018",LA: Pablo apostol de cristo
+https://storage.googleapis.com/cinematv/2018/P8/22%20%20Pablo%20apostol%20de%20cristo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/No%20me%20las%20toquen.jpg " group-title="Pelis 2018",LA: No me las toquen
+https://storage.googleapis.com/cinematv/2018/P8/21%20%20No%20me%20las%20toquen.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Listo%20jugador%20uno.jpg " group-title="Pelis 2018",LA:  Listo jugador uno
+https://storage.googleapis.com/cinematv/2018/P8/20%20%20Listo%20jugador%20uno.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Huracan%20categoria%205.jpg " group-title="Pelis 2018",LA: Huracan categoria 5
+https://storage.googleapis.com/cinematv/2018/P8/19%20%20Huracan%20categoria%205.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Beirut.jpg " group-title="Pelis 2018",LA: Beirut
+https://storage.googleapis.com/cinematv/2018/P8/18%20%20Beirut.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo="  " group-title="Pelis 2018",LA: Alex extrano amor
+https://storage.googleapis.com/cinematv/2018/P8/17%20%20Alex%20extrano%20amor.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Acrimony.jpg " group-title="Pelis 2018",LA: Acrimony
+https://storage.googleapis.com/cinematv/2018/P8/16%20%20Acrimony.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Loca.jpg " group-title="Pelis 2018",LA: Loca
+https://storage.googleapis.com/cinematv/2018/P8/15%20%20Loca.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Tully.jpg " group-title="Pelis 2018",LA: Tully
+https://storage.googleapis.com/cinematv/2018/P8/14%20%20Tully.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Los%20extranos%20se%20aprovechan%20de%20la%20noche.jpg " group-title="Pelis 2018",LA: Los extranos se aprovechan de la noche
+https://storage.googleapis.com/cinematv/2018/P8/13%20%20Los%20extranos%20se%20aprovechan%20de%20la%20noche.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Maria%20Magdalena.jpg " group-title="Pelis 2018",LA: Maria Magdalena
+https://storage.googleapis.com/cinematv/2018/P8/11%20%20%20Maria%20Magdalena.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Alma%20de%20la%20fiesta.jpg " group-title="Pelis 2018",LA: Alma de la fiesta
+https://storage.googleapis.com/cinematv/2018/P8/10%20%20%20Alma%20de%20la%20fiesta.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Isla%20de%20perros.jpg " group-title="Pelis 2018",LA: Isla de perros
+https://storage.googleapis.com/cinematv/2018/P8/09%20%20%20Isla%20de%20perros.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Solo%20puedo%20imaginar.jpg " group-title="Pelis 2018",LA: Solo puedo imaginar
+https://storage.googleapis.com/cinematv/2018/P8/08%20%20%20Solo%20puedo%20imaginar.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/No%20soy%20un%20hombre%20facil.jpg " group-title="Pelis 2018",LA: No soy un hombre facil
+https://storage.googleapis.com/cinematv/2018/P8/07%20%20%20No%20soy%20un%20hombre%20facil.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Como%20termina.jpg " group-title="Pelis 2018",LA: Como termina
+https://storage.googleapis.com/cinematv/2018/P8/06%20%20%20Como%20termina.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Gringo.jpg " group-title="Pelis 2018",LA: Gringo
+https://storage.googleapis.com/cinematv/2018/P8/05%20%20%20Gringo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/La%20ciudad%20de%20Godzilla%20al%20borde%20de%20la%20batalla.jpg " group-title="Pelis 2018",LA:  La ciudad de Godzilla al borde de la batalla.
+https://storage.googleapis.com/cinematv/2018/P8/04%20%20%20La%20ciudad%20de%20Godzilla%20al%20borde%20de%20la%20batalla.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Padre%20del%20a%C3%B1o.jpg " group-title="Pelis 2018",LA: Padre del año
+https://storage.googleapis.com/cinematv/2018/P8/03%20%20%20Padre%20del%20a%C3%B1o.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/Extinction.jpg " group-title="Pelis 2018",LA: Extinction
+https://storage.googleapis.com/cinematv/2018/P8/02%20%20%20Extinction.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P8/la%20venganza%20es%20una%20madre.jpg " group-title="Pelis 2018",LA: la venganza es una madre
+https://storage.googleapis.com/cinematv/2018/P8/01%20%20%20la%20venganza%20es%20una%20madre.mp4
+
+//P9
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Yo%20soy%20simon.jpg " group-title="Pelis 2018",LA: Yo soy simon
+https://storage.googleapis.com/cinematv/2018/P9/Yo%20soy%20simon.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Viaje%20%20en%20el%20tiempo.jpg " group-title="Pelis 2018",LA: Viaje  en el tiempo
+https://storage.googleapis.com/cinematv/2018/P9/Viaje%20%20en%20el%20tiempo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Tropa%20de%20heroes.jpg " group-title="Pelis 2018",LA: Tropa de heroes
+https://storage.googleapis.com/cinematv/2018/P9/Tropa%20de%20heroes.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Tren%20a%20paris.jpg " group-title="Pelis 2018",LA: Tren a paris
+https://storage.googleapis.com/cinematv/2018/P9/Tren%20a%20paris.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo="http://iptvnando.net/imagenes/peliculas/2018/P9/Tomb.raider.jpg  " group-title="Pelis 2018",LA: Tomb raider
+https://storage.googleapis.com/cinematv/2018/P9/Tomb%20raider.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Terror%20bajo%20la%20tierra%206.jpg " group-title="Pelis 2018",LA: Terror bajo la tierra 6
+https://storage.googleapis.com/cinematv/2018/P9/Terror%20bajo%20la%20tierra%206.mp4
+ 
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Sherlock.gnomes.jpg " group-title="Pelis 2018",LA: Sherlock gnomes
+https://storage.googleapis.com/cinematv/2018/P9/Sherlock%20gnomes.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/samson.jpg " group-title="Pelis 2018",LA: Samson
+https://storage.googleapis.com/cinematv/2018/P9/Samson.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Pantera%20Negra.jpg " group-title="Pelis 2018",LA: Pantera Negra
+https://storage.googleapis.com/cinematv/2018/P9/Pantera%20Negra.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Operaci%C3%B3n%20Red%20Sparrow.jpg " group-title="Pelis 2018",LA: Operación Red Sparrow
+https://storage.googleapis.com/cinematv/2018/P9/Operaci%C3%B3n%20Red%20Sparrow.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Levantamiento%20del%20borde%20del%20Pac%C3%ADfico.jpg " group-title="Pelis 2018",LA: Levantamiento del borde del Pacífico
+https://storage.googleapis.com/cinematv/2018/P9/Levantamiento%20del%20borde%20del%20Pac%C3%ADfico.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Las%20travesuras%20de%20Peter%20Rabbit.jpg " group-title="Pelis 2018",LA: Las travesuras de Peter Rabbit
+https://storage.googleapis.com/cinematv/2018/P9/Las%20travesuras%20de%20Peter%20Rabbit.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/La%20peor%20semana.jpg " group-title="Pelis 2018",LA: La peor semana
+https://storage.googleapis.com/cinematv/2018/P9/La%20peor%20semana.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/La%20cabina%20de%20besos.jpg " group-title="Pelis 2018",LA: La cabina de besos
+https://storage.googleapis.com/cinematv/2018/P9/La%20cabina%20de%20besos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Game%20night.jpg " group-title="Pelis 2018",LA: Game night
+https://storage.googleapis.com/cinematv/2018/P9/Game%20night.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Fahrenheit.451.jpg " group-title="Pelis 2018",LA: Fahrenheit 451
+https://storage.googleapis.com/cinematv/2018/P9/Fahrenheit%20451.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/El%20cavernicolas.jpg " group-title="Pelis 2018",LA: El cavernicolas
+https://storage.googleapis.com/cinematv/2018/P9/El%20cavernicolas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Deseo%20de%20matar.jpg " group-title="Pelis 2018",LA: Deseo de matar
+https://storage.googleapis.com/cinematv/2018/P9/Deseo%20de%20matar.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Darc.jpg " group-title="Pelis 2018",LA: Darc
+https://storage.googleapis.com/cinematv/2018/P9/Darc.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Daphne.and.velma.jpg " group-title="Pelis 2018",LA: Daphne and velma
+ https://storage.googleapis.com/cinematv/2018/P9/Daphne%20and%20velma.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Cueva%20de%20ladrones.jpg " group-title="Pelis 2018",LA: Cueva de ladrones
+https://storage.googleapis.com/cinematv/2018/P9/Cueva%20de%20ladrones.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Cincuenta%20sombras%20liberadas.jpg " group-title="Pelis 2018",LA: Cincuenta sombras liberadas
+https://storage.googleapis.com/cinematv/2018/P9/Cincuenta%20sombras%20liberadas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Candy%20Jar.jpg " group-title="Pelis 2018",LA: Candy Jar
+https://storage.googleapis.com/cinematv/2018/P9/Candy%20Jar.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Cada%20dia.jpg " group-title="Pelis 2018",LA: Cada dia
+https://storage.googleapis.com/cinematv/2018/P9/Cada%20dia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/braven.jpg " group-title="Pelis 2018",LA: Braven
+https://storage.googleapis.com/cinematv/2018/P9/Braven.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/As%C3%AD%20es%20la%20vida.jpg " group-title="Pelis 2018",LA: Así es la vida
+https://storage.googleapis.com/cinematv/2018/P9/As%C3%AD%20es%20la%20vida.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/anon.jpg " group-title="Pelis 2018",LA: Anon
+https://storage.googleapis.com/cinematv/2018/P9/Anon.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P9/Alerta%20en%20lo%20profundo%202.jpg " group-title="Pelis 2018",LA: Alerta en lo profundo 2
+https://storage.googleapis.com/cinematv/2018/P9/Alerta%20en%20lo%20profundo%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo="http://iptvnando.net/imagenes/peliculas/2018/P9/Actos%20de%20violencia.jpg  " group-title="Pelis 2018",LA: Actos de violencia
+https://storage.googleapis.com/cinematv/2018/P9/Actos%20de%20violencia.mp4
+
+//P10
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Ven%20el%20domingo.jpg " group-title="Pelis 2018",LA: Ven el domingo
+https://storage.googleapis.com/cinematv/2018/P10/Ven%20el%20domingo.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Un%20gesto%20f%C3%BAtil%20y%20est%C3%BApido.jpg " group-title="Pelis 2018",LA: Un gesto futil y estupido
+https://storage.googleapis.com/cinematv/2018/P10/Un%20gesto%20futil%20y%20estupido.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Scooby-Doo%20y%20Batman%20el%20valiente.jpg " group-title="Pelis 2018",LA: Scooby-Doo y Batman el valiente
+https://storage.googleapis.com/cinematv/2018/P10/Scooby-Doo%20y%20Batman%20el%20valiente.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Puertas%20abiertas.jpg " group-title="Pelis 2018",LA: Puertas abiertas
+https://storage.googleapis.com/cinematv/2018/P10/Puertas%20abiertas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Primer%20partido.jpg " group-title="Pelis 2018",LA: Primer partido
+https://storage.googleapis.com/cinematv/2018/P10/Primer%20partido.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/mudo.jpg " group-title="Pelis 2018",LA: Mudo
+https://storage.googleapis.com/cinematv/2018/P10/Mudo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Miel%20levantate%20y%20baila.jpg " group-title="Pelis 2018",LA: Miel levantate y baila
+https://storage.googleapis.com/cinematv/2018/P10/Miel%20levantate%20y%20baila.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Maria%20orgullosa.jpg " group-title="Pelis 2018",LA: Maria orgullosa
+https://storage.googleapis.com/cinematv/2018/P10/Maria%20orgullosa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Laberinto%20corredor%20la%20cura%20de%20la%20muerte.jpg " group-title="Pelis 2018",LA: Laberinto corredor la cura de la muerte
+https://storage.googleapis.com/cinematv/2018/P10/Laberinto%20corredor%20la%20cura%20de%20la%20muerte.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/La%20paradoja%20de%20Cloverfield.jpg " group-title="Pelis 2018",LA: La paradoja de Cloverfield
+https://storage.googleapis.com/cinematv/2018/P10/La%20paradoja%20de%20Cloverfield.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/La%20noche%20del%20demonio%20la%20ultima%20llave.jpg " group-title="Pelis 2018",LA: La noche del demonio la ultima llave
+https://storage.googleapis.com/cinematv/2018/P10/La%20noche%20del%20demonio%20la%20ultima%20llave.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Hermanastras.jpg " group-title="Pelis 2018",LA: Hermanastras
+https://storage.googleapis.com/cinematv/2018/P10/Hermanastras.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Game%20over%20man.jpg " group-title="Pelis 2018",LA: Game over man
+https://storage.googleapis.com/cinematv/2018/P10/Game%20over%20man.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Feliz%20aniversario.jpg " group-title="Pelis 2018",LA: Feliz aniversario
+https://storage.googleapis.com/cinematv/2018/P10/Feliz%20aniversario.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Escuadron%20suicida%20infierno%20a%20pagar.jpg " group-title="Pelis 2018",LA: Escuadron suicida infierno a pagar
+https://storage.googleapis.com/cinematv/2018/P10/Escuadron%20suicida%20infierno%20a%20pagar.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/El%20Titan.jpg " group-title="Pelis 2018",LA: El Titan
+https://storage.googleapis.com/cinematv/2018/P10/El%20Titan.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/El%20pasajero.jpg " group-title="Pelis 2018",LA: El pasajero
+https://storage.googleapis.com/cinematv/2018/P10/El%20pasajero.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Dia%20del%20linaje%20muerto.jpg " group-title="Pelis 2018",LA: Dia del linaje muerto
+https://storage.googleapis.com/cinematv/2018/P10/Dia%20del%20linaje%20muerto.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/De%20libros%2C%20amores%20y%20otros%20males.jpg " group-title="Pelis 2018",LA: De libros, amores y otros males
+https://storage.googleapis.com/cinematv/2018/P10/De%20libros%2C%20amores%20y%20otros%20males.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Cuando%20nos%20conocimos.jpg " group-title="Pelis 2018",LA: Cuando nos conocimos
+https://storage.googleapis.com/cinematv/2018/P10/Cuando%20nos%20conocimos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Benji.jpg " group-title="Pelis 2018",LA: Benji
+https://storage.googleapis.com/cinematv/2018/P10/Benji.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Batman%20Ciudad%20Gotica.jpg " group-title="Pelis 2018",LA:Batman Ciudad Gotica
+https://storage.googleapis.com/cinematv/2018/P10/Batman%20Ciudad%20Gotica.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo=" http://iptvnando.net/imagenes/peliculas/2018/P10/Aniquilacion.jpg " group-title="Pelis 2018",LA: Aniquilacion
+https://storage.googleapis.com/cinematv/2018/P10/Aniquilacion.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="###### Pelis 2017 ######" tvg-logo="https://storage.googleapis.com/cinematv/mantenimiento.gif" group-title="Pelis 2017",Estamos En mantenimiento (tiempo estimado 72 hrs)
+https://storage.googleapis.com/cinematv/mantenimiento.gif
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAME" tvg-logo="  " group-title="Pelis 2017",LA: 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="###### Pelis 2016 ######" tvg-logo="https://storage.googleapis.com/cinematv/mantenimiento.gif" group-title="Pelis 2016",Estamos En mantenimiento (tiempo estimado 72 hrs)
+https://storage.googleapis.com/cinematv/mantenimiento.gif
+
+
+#EXTINF:-1 tvg-id="" tvg-name="###### Pelis 2015 ######" tvg-logo=" https://storage.googleapis.com/cinematv/mantenimiento.gif " group-title=" Pelis 2015 ",Estamos En mantenimiento (tiempo estimado 72 hrs)
+https://storage.googleapis.com/cinematv/mantenimiento.gif
+
